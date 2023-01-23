@@ -1,7 +1,6 @@
 # QA NFT test with admin API
 
-https://github.com/myeongji-kim/create-test-nft/actions/workflows/pylint.yml/badge.svg
-
+![pylint](https://github.com/myeongji-kim/create-test-nft/actions/workflows/pylint.yml/badge.svg)
 
 ## 사전 설치 필요
 - Python 3.8 이상
