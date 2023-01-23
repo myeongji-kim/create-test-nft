@@ -1,5 +1,8 @@
 # QA NFT test with admin API
 
+https://github.com/myeongji-kim/create-test-nft/actions/workflows/pylint.yml/badge.svg
+
+
 ## 사전 설치 필요
 - Python 3.8 이상
 - 아래 명령어 실행해서 필수 python 모듈 설치 (IDE 사용 시 IDE 내에서 설치 가능함)
